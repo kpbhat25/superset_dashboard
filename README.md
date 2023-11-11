@@ -19,3 +19,6 @@ Superset is a modern data exploration and data visualization platform
 ## Installation 
 
 ## Dashboards Created
+* Open Access Series of Imaging Studies (OASIS)
+  ![OpenAI Logo](oasis-dashboard.jpg)
+
