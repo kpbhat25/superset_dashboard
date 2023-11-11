@@ -1,5 +1,6 @@
 # superset_dashboard
-Creating dashboard from Apache Superset
+Creating dashboard from [Apache Superset](https://github.com/apache/superset)
+Superset is a modern data exploration and data visualization platform
 
 ### [Three type of Dashboard](https://preset.io/blog/)
 * Strategic
@@ -14,3 +15,7 @@ Creating dashboard from Apache Superset
   * Allow user to perform EDA
   * Very granular and specific data
   * Enable users to filter data , compare & contrast over time
+
+## Installation 
+
+## Dashboards Created
